@@ -1,5 +1,6 @@
 # react.js shopping cart
 
+
 example of shopping cart implemented in react.js and redux.js
 
 Used react scripts to run the project.
@@ -18,4 +19,5 @@ npm start
 Have added complete test cases for actions, reducer and have also tried to add few test cases to demonstrate the use of Enzyme shallow rendering etc for unit testing 
 using jest
 
-## have also configured code coverage 
+## Code Coverage
+Have also configured code coverage 
