@@ -2,6 +2,7 @@
 
 example of shopping cart implemented in react.js and redux.js
 
+Used react scripts to run the project.
 
 
 ## getting started
@@ -13,7 +14,8 @@ npm install
 npm start
 ```
 
-## TODO
+## Unit Tests
 Have added complete test cases for actions, reducer and have also tried to add few test cases to demonstrate the use of Enzyme shallow rendering etc for unit testing 
 using jest
 
+## have also configured code coverage 
