@@ -1,0 +1,34 @@
+.product {
+    margin: 0;
+    overflow: auto;
+}
+
+.product__price {
+    display: inline-block;
+    line-height: 34px;
+}
+
+.product__label {
+    width: 100%;
+    text-align: center;
+}
+
+.product__button {
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
+
+
+
+.product_label_ellipsis {
+    white-space: nowrap;
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: inline-block;
+    cursor: pointer
+}
+
